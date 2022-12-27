@@ -3,6 +3,7 @@
 <div>
     <img src="images/coutSettings.png">
     <img src="images/coutSettings2.png">
+    <img src="images/coutResutls.png">
 </div>
 -<b>"auto" keyword</b>: automatically creates the primitive type of the variable according
 to the initialized value.<br>
